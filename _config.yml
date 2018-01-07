@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "About Me"
 title_separator          : "-"
-name                     : &name "About Me2"
+name                     : &name "Seb Jilke"
 description              : &description "personal description"
 url                      : https://mmistakes.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
