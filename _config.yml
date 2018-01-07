@@ -55,7 +55,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : sebjilke
 facebook:
   username               :
   app_id                 :
@@ -78,33 +78,33 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Sebastian Jilke"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  uri              :
+  bio              : "Assistant Professor, School of Public Affairs & Administration (SPAA)"
+  location         : 
+  employer         : "Rutgers University-Newark"
+  googlescholar    : "https://scholar.google.com/citations?user=PA7TqeEAAAAJ&hl=en&oi=ao"
+  email            : "sebastian.jilke@rutgers.edu"
+  uri              : "http://www.journal-bpa.org"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "sebjilke"
   vine             :
   weibo            :
   xing             :
