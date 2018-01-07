@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Sebastian Jilke    "
+title                    : "About Me"
 title_separator          : "-"
 name                     : &name "Sebastian Jilke"
 description              : &description "personal description"
