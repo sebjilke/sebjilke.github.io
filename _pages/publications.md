@@ -5,6 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
+An overview of my publications can also be found on <a href="https://scholar.google.com/citations?user=PA7TqeEAAAAJ&hl=en&oi=ao" target="_blank">Google Scholar</a>.
 
 # Book
 James, O., **Jilke, S.** & G. Van Ryzin. (eds.) (2017): *Experiments In Public Management Research: Challenges and Contributions*. Cambridge: Cambridge University Press.  <a href="http://admin.cambridge.org/se/academic/subjects/management/management-general-interest/experiments-public-management-research-challenges-and-contributions?format=PB#vxdAgU7iD4g0rV2E.97" target="_blank">[book]</a>
