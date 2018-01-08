@@ -1,9 +1,3 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your entire site, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
 locale                   : "en-US"
@@ -79,7 +73,7 @@ analytics:
 # Site Author
 author:
   name             : "Sebastian Jilke"
-  avatar           : "https://github.com/identicons/sebjilke.png"
+  avatar           : "https://avatars1.githubusercontent.com/u/35183324?v=4"
   bio              : "Assistant Professor, School of Public Affairs & Administration (SPAA)"
   location         : 
   employer         : "Rutgers University-Newark"
