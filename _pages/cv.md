@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-A copy of my most recent CV can be found <a href="https://sebjilke.github.io/files/CV-SJ_6Jan18.pdf" target="_blank"><u>here</u></a>.
+A copy of my most recent CV can also be found <a href="https://sebjilke.github.io/files/CV-SJ_6Jan18.pdf" target="_blank"><u>here</u></a>.
 
 
 <object data="https://sebjilke.github.io/files/CV-SJ_6Jan18.pdf" type="application/pdf" width="700px" height="700px">
