@@ -14,4 +14,4 @@ My acadmic work applies insights from the behavioral sciences to public policy a
 
 Together with Martin Bækgaard, Paola Cantarelli and Lars Tummers I co-chair the EGPA Permanent Study Group XXII on <a href="http://www.iias-iisa.org/egpa/groups/permanent-study-groups/psg-xxii-xxii-behavioral-public-administration" target="_blank">Behavioral Public Administration</a>.
 
-Since 2018, I am editing the <a href="http://www.journal-bpa.org" target="_blank">Journal of Behavioral Public Administration</a> (together with Kenneth Meier and Gregg Van Ryzin).
+Since 2018, I am co-editing the <a href="http://www.journal-bpa.org" target="_blank">Journal of Behavioral Public Administration</a>.
