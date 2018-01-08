@@ -8,25 +8,27 @@ author_profile: true
 An overview of my publications can also be found on <a href="https://scholar.google.com/citations?user=PA7TqeEAAAAJ&hl=en&oi=ao" target="_blank"><u>Google Scholar</u></a>.
 
 # Book
-James, O., **Jilke, S.** & G. Van Ryzin. (eds.) (2017): *Experiments In Public Management Research: Challenges and Contributions*. Cambridge: Cambridge University Press.  <a href="http://admin.cambridge.org/se/academic/subjects/management/management-general-interest/experiments-public-management-research-challenges-and-contributions?format=PB#vxdAgU7iD4g0rV2E.97" target="_blank">[book]</a>
+James, O., **Jilke, S.** & G. Van Ryzin. (eds.) (2017): *Experiments In Public Management Research: Challenges and Contributions*. Cambridge: Cambridge University Press.  <a href="http://admin.cambridge.org/se/academic/subjects/management/management-general-interest/experiments-public-management-research-challenges-and-contributions?format=PB#vxdAgU7iD4g0rV2E.97" target="_blank"><u>[book]</u></a>
 
 
 # Articles
+<h2>A Forthcoming</h2>
 **Jilke, S.**, Van Dooren, W. & S. Rys. (forthcoming): Discrimination and Administrative Burden in Public Service Markets: Does a Public-Private Difference Exist? *Journal of Public Administration Research and Theory*, in press.  [pre-print]  [article]
 
 **Jilke, S.** & L. Tummers. (forthcoming): Which Clients are Deserving of Help? A Theoretical Model and Experimental Test. *Journal of Public Administration Research and Theory*, in press.  [pre-print]  [article]
 
 Voorberg, W., **Jilke, S.**, Tummers, L. & V. Bekkers. (forthcoming): Financial Rewards Do Not Stimulate Co-Production: Evidence from Two Experiments. *Public Administration Review*, in press.  [pre-print]  [article]
 
-Jilke, S. (forthcoming): Citizen Satisfaction under Changing Political Leadership: The Role of Partisan Motivated Reasoning. Governance, online first.  [pre-print]  [article]
+**Jilke, S.** (forthcoming): Citizen Satisfaction under Changing Political Leadership: The Role of Partisan Motivated Reasoning. *Governance*, online first.  [pre-print]  [article]
 
-James, O., Jilke, S. & G. Van Ryzin (forthcoming): Behavioural and Experimental Public Administration: Emerging Contributions and New Directions. Public Administration, online first.  [pre-print]  [article]
+James, O., **Jilke, S.** & G. Van Ryzin (forthcoming): Behavioural and Experimental Public Administration: Emerging Contributions and New Directions. *Public Administration*, online first.  [pre-print]  [article]
 
-Jilke, S., Petrovsky, N., Meuleman, B. & O. James (2017): Measurement Equivalence in Replications of Experimental Findings: Guidance on How and When to Determine Equivalence. Public Management Review, 19(9): 1293-1310.  [pre-print]  [article]  [replication data & code]
+<h2>2017</h2>
+**Jilke, S.**, Petrovsky, N., Meuleman, B. & O. James (2017): Measurement Equivalence in Replications of Experimental Findings: Guidance on How and When to Determine Equivalence. *Public Management Review*, 19(9): 1293-1310.  [pre-print]  [article]  [replication data & code]
 
-Grimmelikhuijsen, S., Jilke, S., Olsen A. & L. Tummers (2017): Behavioral Public Administration: Combining Insights from Public Administration and Psychology. Public Administration Review, 77(1): 45-56.  [pre-print]  [article]
+Grimmelikhuijsen, S., **Jilke, S.**, Olsen A. & L. Tummers (2017): Behavioral Public Administration: Combining Insights from Public Administration and Psychology. *Public Administration Review*, 77(1): 45-56.  [pre-print]  [article]
 
-Fernandez-Guiterrez, M., James, O. & S. Jilke (2017): Competition and Switching in Public Service Markets: Can They Reduce Inequalities? Regulation & Governance, 11(1): 41-63.  [pre-print]  [article]
+Fernandez-Guiterrez, M., James, O. & **S. Jilke** (2017): Competition and Switching in Public Service Markets: Can They Reduce Inequalities? *Regulation & Governance*, 11(1): 41-63.  [pre-print]  [article]
 
 Jilke, S., Van Ryzin, G. & S. Van de Walle (2016): Responses to Decline in Marketized Public Services: An Experimental Evaluation of Choice-Overload, Journal of Public Administration Research and Theory, 26(3): 421-432.  [pre-print]  [article]
 
