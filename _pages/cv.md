@@ -7,7 +7,8 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+A copy of my most recent CV can be found <a href="https://sebjilke.github.io/files/CV-SJ_6Jan18.pdf" target="_blank">here</a>.
+
 
 Education
 ======
