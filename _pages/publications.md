@@ -18,15 +18,15 @@ James, O., **Jilke, S.** & G. Van Ryzin. (eds.) (2017): *Experiments In Public M
 
 **Jilke, S.** & L. Tummers. (forthcoming): Which Clients are Deserving of Help? A Theoretical Model and Experimental Test. *Journal of Public Administration Research and Theory*, in press.  [pre-print]  [article]
 
-Voorberg, W., **Jilke, S.**, Tummers, L. & V. Bekkers. (forthcoming): Financial Rewards Do Not Stimulate Co-Production: Evidence from Two Experiments. *Public Administration Review*, in press.  [pre-print]  [article]
-
 **Jilke, S.** (forthcoming): Citizen Satisfaction under Changing Political Leadership: The Role of Partisan Motivated Reasoning. *Governance*, online first.  [pre-print]  [article]
 
-James, O., **Jilke, S.** & G. Van Ryzin (forthcoming): Behavioural and Experimental Public Administration: Emerging Contributions and New Directions. *Public Administration*, online first.  [pre-print]  [article]
+Voorberg, W., **Jilke, S.**, Tummers, L. & V. Bekkers. (forthcoming): Financial Rewards Do Not Stimulate Co-Production: Evidence from Two Experiments. *Public Administration Review*, in press.  [pre-print]  [article]
      
 
 <h3>2017</h3>
 **Jilke, S.**, Petrovsky, N., Meuleman, B. & O. James (2017): Measurement Equivalence in Replications of Experimental Findings: Guidance on How and When to Determine Equivalence. *Public Management Review*, 19(9): 1293-1310.  [pre-print]  [article]  [replication data & code]
+
+James, O., **Jilke, S.** & G. Van Ryzin (forthcoming): Behavioural and Experimental Public Administration: Emerging Contributions and New Directions. *Public Administration*, 95(4): 865-873.
 
 Grimmelikhuijsen, S., **Jilke, S.**, Olsen A. & L. Tummers (2017): Behavioral Public Administration: Combining Insights from Public Administration and Psychology. *Public Administration Review*, 77(1): 45-56.  [pre-print]  [article]
 
@@ -36,11 +36,11 @@ Fernandez-Guiterrez, M., James, O. & **S. Jilke** (2017): Competition and Switch
 <h3>2016</h3>
 **Jilke, S.**, Van Ryzin, G. & S. Van de Walle (2016): Responses to Decline in Marketized Public Services: An Experimental Evaluation of Choice-Overload, *Journal of Public Administration Research and Theory*, 26(3): 421-432.  [pre-print]  [article]
 
+**Jilke, S.**, Van de Walle, S. & S. Kim (2016): Generating Usable Knowledge through an Experimental Approach to Public Administration. *Public Administration Review+, 76(1): 69-72.  [pre-print]  [article]
+
 **Jilke, S.** (2016): Job satisfaction and regime change: Evidence from a natural experiment, *International Public Management Journal*, 19(3): 370-396.  [pre-print]  [article]
 
 Tummers, L., Olsen, A., **Jilke, S.** & S. Grimmelikhuijsen (2016): Introduction to the Virtual Issue on Behavioral Public Administration, *Journal of Public Administration Research and Theory*.  [pre-print]  [article]
-
-**Jilke, S.**, Van de Walle, S. & S. Kim (2016): Generating Usable Knowledge through an Experimental Approach to Public Administration. *Public Administration Review+, 76(1): 69-72.  [pre-print]  [article]
 
 James, O., **Jilke, S.**, Petersen, S. & S. Van de Walle (2016): Citizens’ Blame of Politicians for Public Service Failure: Experimental Evidence about Blame Reduction through Delegation and Contracting, *Public Administration Review*, 76(1): 83-93.  [pre-print]  [article]
 
