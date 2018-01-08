@@ -6,11 +6,11 @@ author_profile: true
 ---
 
 An overview of my publications can also be found on <a href="https://scholar.google.com/citations?user=PA7TqeEAAAAJ&hl=en&oi=ao" target="_blank"><u>Google Scholar</u></a>.
-  
+<br/>
 
 # Book
 James, O., **Jilke, S.** & G. Van Ryzin. (eds.) (2017): *Experiments In Public Management Research: Challenges and Contributions*. Cambridge: Cambridge University Press.  <a href="http://admin.cambridge.org/se/academic/subjects/management/management-general-interest/experiments-public-management-research-challenges-and-contributions?format=PB#vxdAgU7iD4g0rV2E.97" target="_blank"><u>[book]</u></a>
-  
+<br/>
 
 # Articles
 <h3>Forthcoming</h3>
@@ -23,15 +23,15 @@ Voorberg, W., **Jilke, S.**, Tummers, L. & V. Bekkers. (forthcoming): Financial 
 **Jilke, S.** (forthcoming): Citizen Satisfaction under Changing Political Leadership: The Role of Partisan Motivated Reasoning. *Governance*, online first.  [pre-print]  [article]
 
 James, O., **Jilke, S.** & G. Van Ryzin (forthcoming): Behavioural and Experimental Public Administration: Emerging Contributions and New Directions. *Public Administration*, online first.  [pre-print]  [article]
-  
-  
+<br/>
+
 <h3>2017</h3>
 **Jilke, S.**, Petrovsky, N., Meuleman, B. & O. James (2017): Measurement Equivalence in Replications of Experimental Findings: Guidance on How and When to Determine Equivalence. *Public Management Review*, 19(9): 1293-1310.  [pre-print]  [article]  [replication data & code]
 
 Grimmelikhuijsen, S., **Jilke, S.**, Olsen A. & L. Tummers (2017): Behavioral Public Administration: Combining Insights from Public Administration and Psychology. *Public Administration Review*, 77(1): 45-56.  [pre-print]  [article]
 
 Fernandez-Guiterrez, M., James, O. & **S. Jilke** (2017): Competition and Switching in Public Service Markets: Can They Reduce Inequalities? *Regulation & Governance*, 11(1): 41-63.  [pre-print]  [article]
-  
+<br/>
 
 <h3>2016</h3>
 **Jilke, S.**, Van Ryzin, G. & S. Van de Walle (2016): Responses to Decline in Marketized Public Services: An Experimental Evaluation of Choice-Overload, *Journal of Public Administration Research and Theory*, 26(3): 421-432.  [pre-print]  [article]
@@ -45,7 +45,7 @@ Tummers, L., Olsen, A., **Jilke, S.** & S. Grimmelikhuijsen (2016): Introduction
 James, O., **Jilke, S.**, Petersen, S. & S. Van de Walle (2016): Citizens’ Blame of Politicians for Public Service Failure: Experimental Evidence about Blame Reduction through Delegation and Contracting, *Public Administration Review*, 76(1): 83-93.  [pre-print]  [article]
 
 Andrews, R. & **S. Jilke** (2016): Social services and social cohesion in Europe: Exploring the effects of service quality and economic strain. *Journal of Social Policy*, 45(1): 119-140.  [pre-print]  [article]
-  
+<br/>
 
 <h3>2015</h3>
 **Jilke, S.** (2015): Choice and equality: Are vulnerable citizens worse-off after liberalization reforms?, *Public Administration* 93(1): 68-85.  [pre-print]  [article]
@@ -53,16 +53,15 @@ Andrews, R. & **S. Jilke** (2016): Social services and social cohesion in Europe
 **Jilke, S.**, Meuleman, B. & S. Van de Walle (2015): We need to compare, but how? Measurement equivalence in comparative public administration, *Public Administration Review* 75(1): 36-48.  [pre-print]  [article]
 
 Van de Walle, S., Steijn, B. & **S. Jilke** (2015): Extrinsic motivation, PSM and labour market characteristics: A multilevel model of public sector employment preference in 26 countries, *International Review of Administrative Sciences* 81(4).  [pre-print]  [article]
-  
+<br/>
 
 <h3>2014</h3>
 Andrews, R., **Jilke, S.** & S. Van de Walle (2014): Economic strain and social cohesion in Europe: Does institutional trust matter?, *European Journal of Political Research* 53(3): 559-579.  [pre-print]  [article]
 
 Van de Walle, S. & **S. Jilke** (2014): Savings in public services after the financial crisis: A multilevel analysis of drivers of public preferences in the EU27, *International Review of Administrative Sciences* 80(3): 597-618.  [pre-print]  [article]
-  
+<br/>
 
 <h3>2013</h3>
 **Jilke, S.** (2013): What shapes citizens’ perceptions of their public officials’ accountability? Evidence from local Ethiopia, *Public Administration and Development* 33(5): 389-403.  [pre-print]  [article]
 
 **Jilke, S.** &  S. Van de Walle (2013):  Two track public services? Citizen’s voice behavior towards liberalized services in the EU15, *Public Management Review* 15(4): 465-476.  [pre-print]  [article]
-
