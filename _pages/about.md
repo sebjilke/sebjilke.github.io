@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am an assistant professor in the <a href="https://spaa.newark.rutgers.edu" target="_blank">School of Public Affairs and Administration</a> at Rutgers University-Newark, where I am also co-directing the <a href="https://spaa.newark.rutgers.edu/cebpa" target="_blank">Center for Experimental and Behavioral Public Administration</a>.
+I am an assistant professor in the <a href="https://spaa.newark.rutgers.edu" target="_blank">School of Public Affairs and Administration</a> at Rutgers University-Newark where I am also co-directing the <a href="https://spaa.newark.rutgers.edu/cebpa" target="_blank">Center for Experimental and Behavioral Public Administration</a>.
 
-My acadmic work applies insights from the behavioral sciences to public policy and admininstration.  Substantively, I am interested in citizens’ and bureaucrats’ responses to market-type mechanisms in public service delivery, and social equity in access to public programs and services.
+My academic work applies insights from the behavioral sciences to public policy and administration.  Substantively, I am interested in citizens’ and bureaucrats’ responses to market-type mechanisms in public service delivery, and social equity in access to public programs and services.
 
 Together with Martin Bækgaard, Paola Cantarelli and Lars Tummers I co-chair the EGPA Permanent Study Group XXII on <a href="http://www.iias-iisa.org/egpa/groups/permanent-study-groups/psg-xxii-xxii-behavioral-public-administration" target="_blank">Behavioral Public Administration</a>.
 
