@@ -26,7 +26,7 @@ Voorberg, W., **Jilke, S.**, Tummers, L. & V. Bekkers. (forthcoming): Financial 
 <h3>2017</h3>
 **Jilke, S.**, Petrovsky, N., Meuleman, B. & O. James (2017): Measurement Equivalence in Replications of Experimental Findings: Guidance on How and When to Determine Equivalence. *Public Management Review*, 19(9): 1293-1310.  [pre-print]  [article]  [replication data & code]
 
-James, O., **Jilke, S.** & G. Van Ryzin (forthcoming): Behavioural and Experimental Public Administration: Emerging Contributions and New Directions. *Public Administration*, 95(4): 865-873.
+James, O., **Jilke, S.** & G. Van Ryzin (2017): Behavioural and Experimental Public Administration: Emerging Contributions and New Directions. *Public Administration*, 95(4): 865-873.
 
 Grimmelikhuijsen, S., **Jilke, S.**, Olsen A. & L. Tummers (2017): Behavioral Public Administration: Combining Insights from Public Administration and Psychology. *Public Administration Review*, 77(1): 45-56.  [pre-print]  [article]
 
