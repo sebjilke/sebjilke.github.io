@@ -16,7 +16,7 @@ James, O., **Jilke, S.** & G. Van Ryzin. (eds.) (2017): *Experiments In Public M
 <h3>Forthcoming</h3>
 **Jilke, S.**, Van Dooren, W. & S. Rys. (forthcoming): Discrimination and Administrative Burden in Public Service Markets: Does a Public-Private Difference Exist? *Journal of Public Administration Research and Theory*, in press.  [pre-print]  [article]
 
-**Jilke, S.** & L. Tummers. (forthcoming): Which Clients are Deserving of Help? A Theoretical Model and Experimental Test. *Journal of Public Administration Research and Theory*, in press.  [pre-print]  [article]
+**Jilke, S.** & L. Tummers. (forthcoming): Which Clients are Deserving of Help? A Theoretical Model and Experimental Test. *Journal of Public Administration Research and Theory*, in press.  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3099446" target="_blank"><u>[pre-print]</u></a>  [article]
 
 **Jilke, S.** (forthcoming): Citizen Satisfaction under Changing Political Leadership: The Role of Partisan Motivated Reasoning. *Governance*, online first.  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3024855" target="_blank"><u>[pre-print]</u></a>  <a href="http://onlinelibrary.wiley.com/doi/10.1111/gove.12317/full" target="_blank"><u>[article]</u></a>
 
@@ -36,7 +36,7 @@ Fernandez-Guiterrez, M., James, O. & **S. Jilke** (2017): Competition and Switch
 <h3>2016</h3>
 **Jilke, S.**, Van Ryzin, G. & S. Van de Walle (2016): Responses to Decline in Marketized Public Services: An Experimental Evaluation of Choice-Overload, *Journal of Public Administration Research and Theory*, 26(3): 421-432.  [pre-print]  [article]
 
-**Jilke, S.**, Van de Walle, S. & S. Kim (2016): Generating Usable Knowledge through an Experimental Approach to Public Administration. *Public Administration Review+, 76(1): 69-72.  [pre-print]  [article]
+**Jilke, S.**, Van de Walle, S. & S. Kim (2016): Generating Usable Knowledge through an Experimental Approach to Public Administration. *Public Administration Review*, 76(1): 69-72.  [pre-print]  [article]
 
 **Jilke, S.** (2016): Job satisfaction and regime change: Evidence from a natural experiment, *International Public Management Journal*, 19(3): 370-396.  [pre-print]  [article]
 
