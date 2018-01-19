@@ -1,5 +1,6 @@
 # Hey there!
-Welcome to my [personal website](http://www.sebastianjilke.net)!  I am an Assistant Professor at the [School of Public Affairs and Administration](https://spaa.newark.rutgers.edu) at Rutgers University-Newark.  In addition, I am co-director of the [Center for Experimental and Behavioral Public Administration](https://spaa.newark.rutgers.edu/cebpa).
+Welcome to my [personal website](http://www.sebastianjilke.net)!  I am an Assistant Professor at the [School of Public Affairs and Administration](https://spaa.newark.rutgers.edu) at Rutgers University-Newark.
+
 
 
 # Website Template
