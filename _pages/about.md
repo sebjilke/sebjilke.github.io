@@ -12,6 +12,4 @@ I am an assistant professor in the <a href="https://spaa.newark.rutgers.edu" tar
 
 My academic work applies insights from the behavioral sciences to public policy and administration.  Substantively, I am interested in citizens’ and bureaucrats’ responses to market-type mechanisms in public service delivery, and social equity in access to public programs and services.
 
-Together with Martin Bækgaard, Paola Cantarelli and Lars Tummers I co-chair the EGPA Permanent Study Group XXII on <a href="http://www.iias-iisa.org/egpa/groups/permanent-study-groups/psg-xxii-xxii-behavioral-public-administration" target="_blank">Behavioral Public Administration</a>.
-
-Since 2018, I am co-editing the <a href="http://www.journal-bpa.org" target="_blank">Journal of Behavioral Public Administration</a>, a not-for-profit, open-access journal.
+I am founding editor (together with Ken Meier and Gregg Van Ryzin) of the <a href="http://www.journal-bpa.org" target="_blank">Journal of Behavioral Public Administration</a>, a not-for-profit, open-access journal, and co-chair the EGPA Permanent Study Group XXII on <a href="http://www.iias-iisa.org/egpa/groups/permanent-study-groups/psg-xxii-xxii-behavioral-public-administration" target="_blank">Behavioral Public Administration</a>.
