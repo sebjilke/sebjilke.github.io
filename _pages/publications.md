@@ -16,12 +16,14 @@ James, O., **Jilke, S.** & G. Van Ryzin. (eds.) (2017): *Experiments In Public M
 <h3>Forthcoming</h3>
 **Jilke, S.**, Van Dooren, W. & S. Rys. (forthcoming): Discrimination and Administrative Burden in Public Service Markets: Does a Public-Private Difference Exist? *Journal of Public Administration Research and Theory*, in press.  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3107998" target="_blank"><u>[pre-print]</u></a>  <a href="https://academic.oup.com/jpart/advance-article/doi/10.1093/jopart/muy009/4938536"><u>[article]</u></a> 
 
-**Jilke, S.** & L. Tummers. (forthcoming): Which Clients are Deserving of Help? A Theoretical Model and Experimental Test. *Journal of Public Administration Research and Theory*, in press.  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3099446" target="_blank"><u>[pre-print]</u></a>  <a href="https://academic.oup.com/jpart/advance-article/doi/10.1093/jopart/muy002/4827854" target="_blank"><u>[article]</u></a>
-
 **Jilke, S.** (forthcoming): Citizen Satisfaction under Changing Political Leadership: The Role of Partisan Motivated Reasoning. *Governance*, online first.  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3024855" target="_blank"><u>[pre-print]</u></a>  <a href="http://onlinelibrary.wiley.com/doi/10.1111/gove.12317/full" target="_blank"><u>[article]</u></a>
 
 Voorberg, W., **Jilke, S.**, Tummers, L. & V. Bekkers. (forthcoming): Financial Rewards Do Not Stimulate Co-Production: Evidence from Two Experiments. *Public Administration Review*, in press.  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3076096" target="_blank"><u>[pre-print]</u></a>  [article]
-     
+
+
+<h3>2018</h3>
+**Jilke, S.** & L. Tummers. (2018): Which Clients are Deserving of Help? A Theoretical Model and Experimental Test. *Journal of Public Administration Research and Theory*, 28(2): 226-238.  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3099446" target="_blank"><u>[pre-print]</u></a>  <a href="https://academic.oup.com/jpart/article/28/2/226/4827854" target="_blank"><u>[article]</u></a>
+
 
 <h3>2017</h3>
 **Jilke, S.**, Petrovsky, N., Meuleman, B. & O. James (2017): Measurement Equivalence in Replications of Experimental Findings: Guidance on How and When to Determine Equivalence. *Public Management Review*, 19(9): 1293-1310.  [pre-print]  [article]  [replication data & code]
