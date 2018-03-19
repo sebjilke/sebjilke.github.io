@@ -18,7 +18,7 @@ James, O., **Jilke, S.** & G. Van Ryzin. (eds.) (2017): *Experiments In Public M
 
 **Jilke, S.** (forthcoming): Citizen Satisfaction under Changing Political Leadership: The Role of Partisan Motivated Reasoning. *Governance*, online first.  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3024855" target="_blank"><u>[pre-print]</u></a>  <a href="http://onlinelibrary.wiley.com/doi/10.1111/gove.12317/full" target="_blank"><u>[article]</u></a>
 
-Voorberg, W., **Jilke, S.**, Tummers, L. & V. Bekkers. (forthcoming): Financial Rewards Do Not Stimulate Co-Production: Evidence from Two Experiments. *Public Administration Review*, in press.  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3076096" target="_blank"><u>[pre-print]</u></a><a href="https://onlinelibrary.wiley.com/doi/full/10.1111/puar.12896" target="_blank"><u>[article]</u></a>
+Voorberg, W., **Jilke, S.**, Tummers, L. & V. Bekkers. (forthcoming): Financial Rewards Do Not Stimulate Co-Production: Evidence from Two Experiments. *Public Administration Review*, in press.  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3076096" target="_blank"><u>[pre-print]</u></a>  <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/puar.12896" target="_blank"><u>[article]</u></a>
 
 
 <h3>2018</h3>
