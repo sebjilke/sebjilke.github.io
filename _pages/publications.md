@@ -50,11 +50,11 @@ Andrews, R. & **S. Jilke** (2016): Social services and social cohesion in Europe
      
 
 <h3>2015</h3>
-**Jilke, S.** (2015): Choice and equality: Are vulnerable citizens worse-off after liberalization reforms?, *Public Administration* 93(1): 68-85.  [pre-print]  [article]
+**Jilke, S.** (2015): Choice and equality: Are vulnerable citizens worse-off after liberalization reforms?, *Public Administration* 93(1): 68-85.  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2398902" target="_blank"><u>[pre-print]</u></a>  <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/padm.12102" target="_blank"><u>[article]</u></a>
 
-**Jilke, S.**, Meuleman, B. & S. Van de Walle (2015): We need to compare, but how? Measurement equivalence in comparative public administration, *Public Administration Review* 75(1): 36-48.  [pre-print]  [article]
+**Jilke, S.**, Meuleman, B. & S. Van de Walle (2015): We need to compare, but how? Measurement equivalence in comparative public administration, *Public Administration Review* 75(1): 36-48.  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2509963" target="_blank"><u>[pre-print]</u></a>  <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/puar.12318" target="_blank"><u>[article]</u></a>
 
-Van de Walle, S., Steijn, B. & **S. Jilke** (2015): Extrinsic motivation, PSM and labour market characteristics: A multilevel model of public sector employment preference in 26 countries, *International Review of Administrative Sciences* 81(4).  [pre-print]  [article]
+Van de Walle, S., Steijn, B. & **S. Jilke** (2015): Extrinsic motivation, PSM and labour market characteristics: A multilevel model of public sector employment preference in 26 countries, *International Review of Administrative Sciences* 81(4).  <a href="http://journals.sagepub.com/doi/abs/10.1177/0020852314563899" target="_blank"><u>[pre-print]</u></a>  <a href="http://journals.sagepub.com/doi/abs/10.1177/0020852314563899" target="_blank"><u>[article]</u></a>
      
 
 <h3>2014</h3>
