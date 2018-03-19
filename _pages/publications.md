@@ -40,9 +40,9 @@ Fernandez-Guiterrez, M., James, O. & **S. Jilke** (2017): Competition and Switch
 
 **Jilke, S.**, Van de Walle, S. & S. Kim (2016): Generating Usable Knowledge through an Experimental Approach to Public Administration. *Public Administration Review*, 76(1): 69-72. [pre-print] <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/puar.12488" target="_blank"><u>[article]</u></a>
 
-**Jilke, S.** (2016): Job satisfaction and regime change: Evidence from a natural experiment, *International Public Management Journal*, 19(3): 370-396.  [pre-print]  [article]
+**Jilke, S.** (2016): Job satisfaction and regime change: Evidence from a natural experiment, *International Public Management Journal*, 19(3): 370-396.  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2573794" target="_blank"><u>[pre-print]</u></a>  <a href="https://www.tandfonline.com/doi/abs/10.1080/10967494.2015.1043168" target="_blank"><u>[article]</u></a>
 
-Tummers, L., Olsen, A., **Jilke, S.** & S. Grimmelikhuijsen (2016): Introduction to the Virtual Issue on Behavioral Public Administration, *Journal of Public Administration Research and Theory*.  [pre-print]  [article]
+Tummers, L., Olsen, A., **Jilke, S.** & S. Grimmelikhuijsen (2016): Introduction to the Virtual Issue on Behavioral Public Administration, *Journal of Public Administration Research and Theory*.  [pre-print] <a href="https://academic.oup.com/jpart/pages/Virtual_Issue_1" target="_blank"><u>[article]</u></a>
 
 James, O., **Jilke, S.**, Petersen, S. & S. Van de Walle (2016): Citizens’ Blame of Politicians for Public Service Failure: Experimental Evidence about Blame Reduction through Delegation and Contracting, *Public Administration Review*, 76(1): 83-93.  [pre-print]  [article]
 
