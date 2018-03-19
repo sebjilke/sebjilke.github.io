@@ -26,7 +26,7 @@ Voorberg, W., **Jilke, S.**, Tummers, L. & V. Bekkers. (forthcoming): Financial 
 
 
 <h3>2017</h3>
-**Jilke, S.**, Petrovsky, N., Meuleman, B. & O. James (2017): Measurement Equivalence in Replications of Experimental Findings: Guidance on How and When to Determine Equivalence. *Public Management Review*, 19(9): 1293-1310.  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2798610" target="_blank"><u>[pre-print]</u></a>  <a href="https://www.tandfonline.com/doi/abs/10.1080/14719037.2016.1210906" target="_blank"><u>[article]</u></a>  [replication data & code]
+**Jilke, S.**, Petrovsky, N., Meuleman, B. & O. James (2017): Measurement Equivalence in Replications of Experimental Findings: Guidance on How and When to Determine Equivalence. *Public Management Review*, 19(9): 1293-1310.  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2798610" target="_blank"><u>[pre-print]</u></a>  <a href="https://www.tandfonline.com/doi/abs/10.1080/14719037.2016.1210906" target="_blank"><u>[article]</u></a>  <a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/DJHPPE" target="_blank"><u>[replication data & code]</u></a>
 
 James, O., **Jilke, S.** & G. Van Ryzin (2017): Behavioural and Experimental Public Administration: Emerging Contributions and New Directions. *Public Administration*, 95(4): 865-873.  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3051892" target="_blank"><u>[pre-print]</u></a>  <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/padm.12363" target="_blank"><u>[article]</u></a>
 
@@ -46,7 +46,7 @@ Tummers, L., Olsen, A., **Jilke, S.** & S. Grimmelikhuijsen (2016): Introduction
 
 James, O., **Jilke, S.**, Petersen, S. & S. Van de Walle (2016): Citizens’ Blame of Politicians for Public Service Failure: Experimental Evidence about Blame Reduction through Delegation and Contracting, *Public Administration Review*, 76(1): 83-93.  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2692597" target="_blank"><u>[pre-print]</u></a>  <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/puar.12471" target="_blank"><u>[article]</u></a>
 
-Andrews, R. & **S. Jilke** (2016): Social services and social cohesion in Europe: Exploring the effects of service quality and economic strain. *Journal of Social Policy*, 45(1): 119-140.  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2656590" target="_blank"><u>[pre-print]</u></a>  <a href="https://www.cambridge.org/core/journals/journal-of-social-policy/article/welfare-states-and-social-cohesion-in-europe-does-social-service-quality-matter/6E940D6269714287E9306B2C0E67FD01" target="_blank"><u>[article]</u></a>
+Andrews, R. & **S. Jilke** (2016): Welfare States and Social Cohesion in Europe: Does Social Service Quality Matter?. *Journal of Social Policy*, 45(1): 119-140.  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2656590" target="_blank"><u>[pre-print]</u></a>  <a href="https://www.cambridge.org/core/journals/journal-of-social-policy/article/welfare-states-and-social-cohesion-in-europe-does-social-service-quality-matter/6E940D6269714287E9306B2C0E67FD01" target="_blank"><u>[article]</u></a>
      
 
 <h3>2015</h3>
