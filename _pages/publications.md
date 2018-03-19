@@ -28,11 +28,11 @@ Voorberg, W., **Jilke, S.**, Tummers, L. & V. Bekkers. (forthcoming): Financial 
 <h3>2017</h3>
 **Jilke, S.**, Petrovsky, N., Meuleman, B. & O. James (2017): Measurement Equivalence in Replications of Experimental Findings: Guidance on How and When to Determine Equivalence. *Public Management Review*, 19(9): 1293-1310.  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2798610" target="_blank"><u>[pre-print]</u></a>  <a href="https://www.tandfonline.com/doi/abs/10.1080/14719037.2016.1210906" target="_blank"><u>[article]</u></a>  [replication data & code]
 
-James, O., **Jilke, S.** & G. Van Ryzin (2017): Behavioural and Experimental Public Administration: Emerging Contributions and New Directions. *Public Administration*, 95(4): 865-873.
+James, O., **Jilke, S.** & G. Van Ryzin (2017): Behavioural and Experimental Public Administration: Emerging Contributions and New Directions. *Public Administration*, 95(4): 865-873.  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3051892" target="_blank"><u>[pre-print]</u></a>  <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/padm.12363" target="_blank"><u>[article]</u></a>
 
-Grimmelikhuijsen, S., **Jilke, S.**, Olsen A. & L. Tummers (2017): Behavioral Public Administration: Combining Insights from Public Administration and Psychology. *Public Administration Review*, 77(1): 45-56.  [pre-print]  [article]
+Grimmelikhuijsen, S., **Jilke, S.**, Olsen A. & L. Tummers (2017): Behavioral Public Administration: Combining Insights from Public Administration and Psychology. *Public Administration Review*, 77(1): 45-56.  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2773702" target="_blank"><u>[pre-print]</u></a>  <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/puar.12609" target="_blank"><u>[article]</u></a>
 
-Fernandez-Guiterrez, M., James, O. & **S. Jilke** (2017): Competition and Switching in Public Service Markets: Can They Reduce Inequalities? *Regulation & Governance*, 11(1): 41-63.  [pre-print]  [article]
+Fernandez-Guiterrez, M., James, O. & **S. Jilke** (2017): Competition and Switching in Public Service Markets: Can They Reduce Inequalities? *Regulation & Governance*, 11(1): 41-63.  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2675114" target="_blank"><u>[pre-print]</u></a>  <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/rego.12110" target="_blank"><u>[article]</u></a>
      
 
 <h3>2016</h3>
