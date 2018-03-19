@@ -44,9 +44,9 @@ Fernandez-Guiterrez, M., James, O. & **S. Jilke** (2017): Competition and Switch
 
 Tummers, L., Olsen, A., **Jilke, S.** & S. Grimmelikhuijsen (2016): Introduction to the Virtual Issue on Behavioral Public Administration, *Journal of Public Administration Research and Theory*.  [pre-print] <a href="https://academic.oup.com/jpart/pages/Virtual_Issue_1" target="_blank"><u>[article]</u></a>
 
-James, O., **Jilke, S.**, Petersen, S. & S. Van de Walle (2016): Citizens’ Blame of Politicians for Public Service Failure: Experimental Evidence about Blame Reduction through Delegation and Contracting, *Public Administration Review*, 76(1): 83-93.  [pre-print]  [article]
+James, O., **Jilke, S.**, Petersen, S. & S. Van de Walle (2016): Citizens’ Blame of Politicians for Public Service Failure: Experimental Evidence about Blame Reduction through Delegation and Contracting, *Public Administration Review*, 76(1): 83-93.  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2692597" target="_blank"><u>[pre-print]</u></a>  <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/puar.12471" target="_blank"><u>[article]</u></a>
 
-Andrews, R. & **S. Jilke** (2016): Social services and social cohesion in Europe: Exploring the effects of service quality and economic strain. *Journal of Social Policy*, 45(1): 119-140.  [pre-print]  [article]
+Andrews, R. & **S. Jilke** (2016): Social services and social cohesion in Europe: Exploring the effects of service quality and economic strain. *Journal of Social Policy*, 45(1): 119-140.  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2656590" target="_blank"><u>[pre-print]</u></a>  <a href="https://www.cambridge.org/core/journals/journal-of-social-policy/article/welfare-states-and-social-cohesion-in-europe-does-social-service-quality-matter/6E940D6269714287E9306B2C0E67FD01" target="_blank"><u>[article]</u></a>
      
 
 <h3>2015</h3>
