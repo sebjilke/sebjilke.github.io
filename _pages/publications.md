@@ -36,9 +36,9 @@ Fernandez-Guiterrez, M., James, O. & **S. Jilke** (2017): Competition and Switch
      
 
 <h3>2016</h3>
-**Jilke, S.**, Van Ryzin, G. & S. Van de Walle (2016): Responses to Decline in Marketized Public Services: An Experimental Evaluation of Choice-Overload, *Journal of Public Administration Research and Theory*, 26(3): 421-432.  [pre-print]  [article]
+**Jilke, S.**, Van Ryzin, G. & S. Van de Walle (2016): Responses to Decline in Marketized Public Services: An Experimental Evaluation of Choice-Overload, *Journal of Public Administration Research and Theory*, 26(3): 421-432.  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2630752" target="_blank"><u>[pre-print]</u></a>  <a href="https://academic.oup.com/jpart/article/26/3/421/2579792" target="_blank"><u>[article]</u></a>
 
-**Jilke, S.**, Van de Walle, S. & S. Kim (2016): Generating Usable Knowledge through an Experimental Approach to Public Administration. *Public Administration Review*, 76(1): 69-72.  [pre-print]  [article]
+**Jilke, S.**, Van de Walle, S. & S. Kim (2016): Generating Usable Knowledge through an Experimental Approach to Public Administration. *Public Administration Review*, 76(1): 69-72. [pre-print] <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/puar.12488" target="_blank"><u>[article]</u></a>
 
 **Jilke, S.** (2016): Job satisfaction and regime change: Evidence from a natural experiment, *International Public Management Journal*, 19(3): 370-396.  [pre-print]  [article]
 
