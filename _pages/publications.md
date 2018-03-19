@@ -54,16 +54,16 @@ Andrews, R. & **S. Jilke** (2016): Social services and social cohesion in Europe
 
 **Jilke, S.**, Meuleman, B. & S. Van de Walle (2015): We need to compare, but how? Measurement equivalence in comparative public administration, *Public Administration Review* 75(1): 36-48.  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2509963" target="_blank"><u>[pre-print]</u></a>  <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/puar.12318" target="_blank"><u>[article]</u></a>
 
-Van de Walle, S., Steijn, B. & **S. Jilke** (2015): Extrinsic motivation, PSM and labour market characteristics: A multilevel model of public sector employment preference in 26 countries, *International Review of Administrative Sciences* 81(4).  <a href="http://journals.sagepub.com/doi/abs/10.1177/0020852314563899" target="_blank"><u>[pre-print]</u></a>  <a href="http://journals.sagepub.com/doi/abs/10.1177/0020852314563899" target="_blank"><u>[article]</u></a>
+Van de Walle, S., Steijn, B. & **S. Jilke** (2015): Extrinsic motivation, PSM and labour market characteristics: A multilevel model of public sector employment preference in 26 countries, *International Review of Administrative Sciences* 81(4): 833-855.  <a href="http://journals.sagepub.com/doi/abs/10.1177/0020852314563899" target="_blank"><u>[pre-print]</u></a>  <a href="http://journals.sagepub.com/doi/abs/10.1177/0020852314563899" target="_blank"><u>[article]</u></a>
      
 
 <h3>2014</h3>
-Andrews, R., **Jilke, S.** & S. Van de Walle (2014): Economic strain and social cohesion in Europe: Does institutional trust matter?, *European Journal of Political Research* 53(3): 559-579.  [pre-print]  [article]
+Andrews, R., **Jilke, S.** & S. Van de Walle (2014): Economic strain and social cohesion in Europe: Does institutional trust matter?, *European Journal of Political Research* 53(3): 559-579.  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2380312" target="_blank"><u>[pre-print]</u></a>  <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/1475-6765.12052" target="_blank"><u>[article]</u></a>
 
-Van de Walle, S. & **S. Jilke** (2014): Savings in public services after the financial crisis: A multilevel analysis of drivers of public preferences in the EU27, *International Review of Administrative Sciences* 80(3): 597-618.  [pre-print]  [article]
+Van de Walle, S. & **S. Jilke** (2014): Savings in public services after the financial crisis: A multilevel analysis of drivers of public preferences in the EU27, *International Review of Administrative Sciences* 80(3): 597-618.  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2289438" target="_blank"><u>[pre-print]</u></a>  <a href="http://journals.sagepub.com/doi/abs/10.1177/0020852313517994" target="_blank"><u>[article]</u></a>
      
 
 <h3>2013</h3>
-**Jilke, S.** (2013): What shapes citizens’ perceptions of their public officials’ accountability? Evidence from local Ethiopia, *Public Administration and Development* 33(5): 389-403.  [pre-print]  [article]
+**Jilke, S.** (2013): What shapes citizens’ perceptions of their public officials’ accountability? Evidence from local Ethiopia, *Public Administration and Development* 33(5): 389-403.  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2289433" target="_blank"><u>[pre-print]</u></a>  <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/pad.1659" target="_blank"><u>[article]</u></a>
 
-**Jilke, S.** &  S. Van de Walle (2013):  Two track public services? Citizen’s voice behavior towards liberalized services in the EU15, *Public Management Review* 15(4): 465-476.  [pre-print]  [article]
+**Jilke, S.** &  S. Van de Walle (2013):  Two track public services? Citizen’s voice behavior towards liberalized services in the EU15, *Public Management Review* 15(4): 465-476.  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2060294" target="_blank"><u>[pre-print]</u></a>  <a href="https://www.tandfonline.com/doi/abs/10.1080/14719037.2012.664015" target="_blank"><u>[article]</u></a>
