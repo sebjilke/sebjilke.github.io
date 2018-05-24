@@ -14,7 +14,7 @@ James, O., **Jilke, S.** & G. Van Ryzin. (eds.) (2017): *Experiments In Public M
 
 <h2>Articles</h2>
 <h3>Forthcoming</h3>
-**Jilke, S.**, Lu, J., Xu, C. & S. Shinohara. (forthcoming): Using Large Scale Social Media Experiments in Public Administration: Assessing Charitable Consequences of Government. Funding of Nonprofits *Journal of Public Administration Research and Theory*, online first.   <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3164576" target="_blank"><u>[pre-print]</u></a>  <a href="https://academic.oup.com/jpart/advance-article-abstract/doi/10.1093/jopart/muy021/4995543" target="_blank"><u>[article]</u></a> 
+**Jilke, S.**, Lu, J., Xu, C. & S. Shinohara. (forthcoming): Using Large Scale Social Media Experiments in Public Administration: Assessing Charitable Consequences of Government Funding of Nonprofits. *Journal of Public Administration Research and Theory*, online first.   <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3164576" target="_blank"><u>[pre-print]</u></a>  <a href="https://academic.oup.com/jpart/advance-article-abstract/doi/10.1093/jopart/muy021/4995543" target="_blank"><u>[article]</u></a> 
 
 **Jilke, S.**, Van Dooren, W. & S. Rys. (forthcoming): Discrimination and Administrative Burden in Public Service Markets: Does a Public-Private Difference Exist? *Journal of Public Administration Research and Theory*, online first.  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3107998" target="_blank"><u>[pre-print]</u></a>  <a href="https://academic.oup.com/jpart/advance-article/doi/10.1093/jopart/muy009/4938536" target="_blank"><u>[article]</u></a> 
 
