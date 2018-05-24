@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am assistant professor in the <a href="https://spaa.newark.rutgers.edu" target="_blank">School of Public Affairs and Administration</a> at Rutgers University-Newark where I am also co-directing the <a href="https://spaa.newark.rutgers.edu/cebpa" target="_blank">Center for Experimental and Behavioral Public Administration</a>.
+I am an assistant professor in the <a href="https://spaa.newark.rutgers.edu" target="_blank">School of Public Affairs and Administration</a> at Rutgers University-Newark where I am also co-directing the <a href="https://spaa.newark.rutgers.edu/cebpa" target="_blank">Center for Experimental and Behavioral Public Administration</a>.
 
 My academic work applies insights from the behavioral sciences to public policy and administration.  Substantively, I am interested in citizens’ and bureaucrats’ responses to market-type mechanisms in public service delivery, and social equity in access to public programs and services.
 
