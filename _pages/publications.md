@@ -16,14 +16,14 @@ James, O., **Jilke, S.** & G. Van Ryzin. (eds.) (2017): *Experiments In Public M
 <h3>Forthcoming</h3>
 **Jilke, S.**, Lu, J., Xu, C. & S. Shinohara. (forthcoming): Using Large Scale Social Media Experiments in Public Administration: Assessing Charitable Consequences of Government Funding of Nonprofits. *Journal of Public Administration Research and Theory*, online first.   <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3164576" target="_blank"><u>[pre-print]</u></a>  <a href="https://academic.oup.com/jpart/advance-article-abstract/doi/10.1093/jopart/muy021/4995543" target="_blank"><u>[article]</u></a> 
 
-**Jilke, S.**, Van Dooren, W. & S. Rys. (forthcoming): Discrimination and Administrative Burden in Public Service Markets: Does a Public-Private Difference Exist? *Journal of Public Administration Research and Theory*, online first.  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3107998" target="_blank"><u>[pre-print]</u></a>  <a href="https://academic.oup.com/jpart/advance-article/doi/10.1093/jopart/muy009/4938536" target="_blank"><u>[article]</u></a> 
-
 **Jilke, S.** (forthcoming): Citizen Satisfaction under Changing Political Leadership: The Role of Partisan Motivated Reasoning. *Governance*, online first.  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3024855" target="_blank"><u>[pre-print]</u></a>  <a href="http://onlinelibrary.wiley.com/doi/10.1111/gove.12317/full" target="_blank"><u>[article]</u></a>
 
 Voorberg, W., **Jilke, S.**, Tummers, L. & V. Bekkers. (forthcoming): Financial Rewards Do Not Stimulate Co-Production: Evidence from Two Experiments. *Public Administration Review*, online first.  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3076096" target="_blank"><u>[pre-print]</u></a>  <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/puar.12896" target="_blank"><u>[article]</u></a>
 
 
 <h3>2018</h3>
+**Jilke, S.**, Van Dooren, W. & S. Rys. (2018): Discrimination and Administrative Burden in Public Service Markets: Does a Public-Private Difference Exist? *Journal of Public Administration Research and Theory*, 28(3): 423-439.  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3107998" target="_blank"><u>[pre-print]</u></a>  <a href="https://academic.oup.com/jpart/advance-article/doi/10.1093/jopart/muy009/4938536" target="_blank"><u>[article]</u></a> 
+
 **Jilke, S.** & L. Tummers. (2018): Which Clients are Deserving of Help? A Theoretical Model and Experimental Test. *Journal of Public Administration Research and Theory*, 28(2): 226-238.  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3099446" target="_blank"><u>[pre-print]</u></a>  <a href="https://academic.oup.com/jpart/article/28/2/226/4827854" target="_blank"><u>[article]</u></a>
 
 
