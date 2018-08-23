@@ -5,8 +5,7 @@ permalink: /blog/
 author_profile: true
 ---
 
-<br />
-
+  
 `Ein Gespenst geht um in Minnowbrook – das Gespenst des Advocacy-as-Science.`  
 `Wissenschaftler aller Laender, vereiningt euch!`<sup>1</sup>
 
