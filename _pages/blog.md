@@ -12,7 +12,7 @@ author_profile: true
 
 <br />
 
-# Minnowbrook 50 – Some personal reflections
+# Minnowbrook 50 – Some personal reflections (see also the blogpost of [Asmus Olsen](http://asmusolsen.com/thoughts/))
 24-Augst-2018
 
   
