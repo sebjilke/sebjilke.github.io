@@ -32,7 +32,11 @@ I recall a particularly interesting discussion I had at night that reflects this
 There is a role of normative values in choosing a research theme, I believe, like social equity, discrimination, intersectionality, etc., but when answering research questions I put my ideological priors aside and let the evidence speak. I also believe that it is my responsibility as a scholar to share this knowledge with the public. But without good evidence, I am not comfortable to make policy suggestions, or to advice public agencies; If I would, I would not be much better than the medieval doctors with their leeches. Here, I would like to add a word of caution that there indeed does exist excellent normative scholarship, in law for instance.
 
 This brings me back to the diminishing relevance of public administration as attested by some colleagues. If we, as a design science, want to fulfill our obligation in shaping societal affairs, we have to do so through the knowledge we produce. The credibility of our policy advice hinges on the credibility of our research . Relevance in this sense means – to me – studying important questions (which can be normatively chosen) through the appropriate methods and techniques. It is only with credible evidence that we can speak truth to power.
-  
-  
-  <sup>1</sup>
+
 This debate somewhat represents the classical Waldo-Simon divide that seems to continue to haunt our field/discipline. We have touched upon this a few times during the conference indeed, but nowhere did we have an open discussion where we all put our normative priors aside. And I don’t want to blame anyone here because I could have also sought this discussion much more directly and in the open. Too often do we feel offended by viewpoints that are in contrast to our own. Only days after Minnowbrook I realized that we may have missed the chance to move the field/discipline further in this respect. But I’m hopeful; the spirit of Minnowbrook is not just one weekend, it is our narrative and what we want it to be. Let’s put our normative and ideological priors aside, join uncomfortable discussions, at academic conferences, workshops, and even our own schools. To me, that’s the spirit of Minnowbrook!
+
+  
+
+<sup>1</sup> Loosely based on Karl Marx and Friedrich Engels (1848): The Communist Manifesto. Personal translation: *A spectre is haunting Minnowbrook – the spectre of advocacy-as-science. Scientists of all countries, unite!*
+
+<sup>2</sup> To me, empirical credibility is defined in a hierarchy of evidence along the criterion of internal validity. However, I appreciate other approaches. Indeed, some of the best academic books I have read are based on expert interviews, for example, and personal experiences. It is through the combination and triangulation of evidence that progress is made.
