@@ -7,10 +7,8 @@ author_profile: true
 
   
 
-```
-### Ein Gespenst geht um in Minnowbrook – das Gespenst des Advocacy-as-Science.  
-Wissenschaftler aller Laender, vereiningt euch!  
-```
+`Ein Gespenst geht um in Minnowbrook – das Gespenst des Advocacy-as-Science.  
+Wissenschaftler aller Laender, vereiningt euch!`
 
 # Minnowbrook 50 – Some personal reflections
 24-Augst-2018
