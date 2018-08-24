@@ -16,7 +16,7 @@ author_profile: true
 `Wissenschaftler aller Laender, vereiningt euch!`<sup>1</sup>
 
 Loosely based on Karl Marx and Friedrich Engels (1848): The Communist Manifesto. Personal translation: *A spectre is haunting Minnowbrook – the spectre of advocacy-as-science. Scientists of all countries, unite!*
-
+    
   
 
 On the weekend 17-20 August 2018, I was fortunate to join a small group of public administration scholars for the 50th Anniversary of the Minnowbrook Conference in the Adirondack State Park in upstate New York. Before I start to share some of my personal – and very subjective – experiences, I would like to express my gratitude for being invited and my sincere kudos to Tina Nabatchi and her team for organizing the Conference and her superb leadership during the event! It was one of the most inspiring and fun events I attended thoughout my professional career.
