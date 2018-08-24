@@ -10,7 +10,7 @@ author_profile: true
 ## Minnowbrook 50 – Some personal reflections
 24-Augst-2018  (see also the (prosaic and scandi-minded) blogpost of <a href="http://asmusolsen.com/thoughts/" target="_blank"><u>Asmus</u></a>).
 
-  
+<br />
 
 `Ein Gespenst geht um in Minnowbrook – das Gespenst des Advocacy-as-Science.`  
 `Wissenschaftler aller Laender, vereiningt euch!`<sup>1</sup>
