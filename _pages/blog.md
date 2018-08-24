@@ -9,6 +9,8 @@ author_profile: true
 `Ein Gespenst geht um in Minnowbrook – das Gespenst des Advocacy-as-Science.`  
 `Wissenschaftler aller Laender, vereiningt euch!`<sup>1</sup>
 
+Loosely based on Karl Marx and Friedrich Engels (1848): The Communist Manifesto. Personal translation: *A spectre is haunting Minnowbrook – the spectre of advocacy-as-science. Scientists of all countries, unite!*
+
 <br />
 
 # Minnowbrook 50 – Some personal reflections
@@ -39,6 +41,6 @@ This debate somewhat represents the classical Waldo-Simon, but also a more profo
 
 <br />
 
-<sup>1</sup> Loosely based on Karl Marx and Friedrich Engels (1848): The Communist Manifesto. Personal translation: *A spectre is haunting Minnowbrook – the spectre of advocacy-as-science. Scientists of all countries, unite!*
+<sup>1</sup> 
 
 <sup>2</sup> To me personally, empirical credibility is defined in a hierarchy of evidence along the criterion of internal validity. However, I appreciate other approaches. Indeed, some of the best academic books I have read are based on expert interviews, for example, and personal experiences. It is through the combination and triangulation of evidence that progress is made.
