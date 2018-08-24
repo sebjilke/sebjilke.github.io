@@ -15,7 +15,7 @@ author_profile: true
 `Ein Gespenst geht um in Minnowbrook – das Gespenst des Advocacy-as-Science.`  
 `Wissenschaftler aller Laender, vereiningt euch!`
 
-*Loosely based on Karl Marx and Friedrich Engels (1848): The Communist Manifesto. Personal translation: ''A spectre is haunting Minnowbrook – the spectre of advocacy-as-science. Scientists of all countries, unite!''*
+*Loosely based on Karl Marx and Friedrich Engels (1848): The Communist Manifesto. Personal translation: "A spectre is haunting Minnowbrook – the spectre of advocacy-as-science. Scientists of all countries, unite!"*
 
 <br />
 
