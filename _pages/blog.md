@@ -6,15 +6,13 @@ author_profile: true
 ---
 
   
+## Minnowbrook 50 – Some personal reflections
+24-Augst-2018  (see also the (prosaic and scandi-minded) blogpost of <a href="http://asmusolsen.com/thoughts/" target="_blank"><u>Asmus</u></a>).
+<br />
 `Ein Gespenst geht um in Minnowbrook – das Gespenst des Advocacy-as-Science.`  
 `Wissenschaftler aller Laender, vereiningt euch!`<sup>1</sup>
 
-###### Loosely based on Karl Marx and Friedrich Engels (1848): The Communist Manifesto. Personal translation: *A spectre is haunting Minnowbrook – the spectre of advocacy-as-science. Scientists of all countries, unite!*
-
-<br />
-
-## Minnowbrook 50 – Some personal reflections
-24-Augst-2018  (see also the (prosaic and scandi-minded) blogpost of <a href="http://asmusolsen.com/thoughts/" target="_blank"><u>Asmus</u></a>).
+Loosely based on Karl Marx and Friedrich Engels (1848): The Communist Manifesto. Personal translation: *A spectre is haunting Minnowbrook – the spectre of advocacy-as-science. Scientists of all countries, unite!*
 
   
 
