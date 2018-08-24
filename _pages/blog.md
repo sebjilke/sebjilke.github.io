@@ -14,7 +14,7 @@ Loosely based on Karl Marx and Friedrich Engels (1848): The Communist Manifesto.
 <br />
 
 # Minnowbrook 50 – Some personal reflections
-24-Augst-2018  (see also the blogpost of <a href="http://asmusolsen.com/thoughts/" target="_blank"><u>Asmus Olsen</u></a>).
+24-Augst-2018  (see also the (less efficiently written but scandi-minded) blogpost of <a href="http://asmusolsen.com/thoughts/" target="_blank"><u>Professor Asmus Olsen</u></a>).
 
   
 
