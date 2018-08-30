@@ -8,7 +8,7 @@ author_profile: true
 <br />
   
 ## Minnowbrook 50 – Some personal reflections
-24-Augst-2018  (see also the (prosaic and scandi-minded) blogpost of <a href="http://asmusolsen.com/thoughts/" target="_blank"><u>Asmus</u></a>).
+24-August-2018  (see also the (prosaic and scandi-minded) blogpost of <a href="http://asmusolsen.com/thoughts/" target="_blank"><u>Asmus</u></a>).
 
   
 
