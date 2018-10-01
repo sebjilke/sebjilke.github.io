@@ -20,7 +20,7 @@ Voorberg, W., **Jilke, S.**, Tummers, L. & V. Bekkers. (forthcoming): Financial 
 
 
 <h3>2018</h3>
-**Jilke, S.** (forthcoming): Citizen Satisfaction under Changing Political Leadership: The Role of Partisan Motivated Reasoning. *Governance*, 31(3): 515-533.  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3024855" target="_blank"><u>[pre-print]</u></a>  <a href="http://onlinelibrary.wiley.com/doi/10.1111/gove.12317/full" target="_blank"><u>[article]</u></a>
+**Jilke, S.** (2018): Citizen Satisfaction under Changing Political Leadership: The Role of Partisan Motivated Reasoning. *Governance*, 31(3): 515-533.  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3024855" target="_blank"><u>[pre-print]</u></a>  <a href="http://onlinelibrary.wiley.com/doi/10.1111/gove.12317/full" target="_blank"><u>[article]</u></a>
 
 **Jilke, S.**, Van Dooren, W. & S. Rys. (2018): Discrimination and Administrative Burden in Public Service Markets: Does a Public-Private Difference Exist? *Journal of Public Administration Research and Theory*, 28(3): 423-439.  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3107998" target="_blank"><u>[pre-print]</u></a>  <a href="https://academic.oup.com/jpart/advance-article/doi/10.1093/jopart/muy009/4938536" target="_blank"><u>[article]</u></a> 
 
