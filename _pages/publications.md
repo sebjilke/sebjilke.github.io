@@ -24,7 +24,7 @@ James, O., **Jilke, S.** & G. Van Ryzin. (eds.) (2017): *Experiments In Public M
 
 **Jilke, S.** & L. Tummers. (2018): Which Clients are Deserving of Help? A Theoretical Model and Experimental Test. *Journal of Public Administration Research and Theory*, 28(2): 226-238.  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3099446" target="_blank"><u>[pre-print]</u></a>  <a href="https://academic.oup.com/jpart/article/28/2/226/4827854" target="_blank"><u>[article]</u></a>
 
-Voorberg, W., **Jilke, S.**, Tummers, L. & V. Bekkers. (forthcoming): Financial Rewards Do Not Stimulate Co-Production: Evidence from Two Experiments. *Public Administration Review*, 78(6): 864-873.  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3076096" target="_blank"><u>[pre-print]</u></a>  <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/puar.12896" target="_blank"><u>[article]</u></a>
+Voorberg, W., **Jilke, S.**, Tummers, L. & V. Bekkers. (2018): Financial Rewards Do Not Stimulate Co-Production: Evidence from Two Experiments. *Public Administration Review*, 78(6): 864-873.  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3076096" target="_blank"><u>[pre-print]</u></a>  <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/puar.12896" target="_blank"><u>[article]</u></a>
 
 
 <h3>2017</h3>
