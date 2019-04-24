@@ -12,4 +12,6 @@ I am an assistant professor in the <a href="https://spaa.newark.rutgers.edu" tar
 
 My academic work applies insights from the behavioral sciences to public management and policy. Substantively, I am interested in how institutional arrangements for public service delivery affect public employees and the people they serve.
 
+In 2019, I received the **Beryl Radin Award** for the best article published in the *Journal of Public Administration Research and Theory (JPART)* for <a href="https://academic.oup.com/jpart/article/28/2/226/4827854" target="_blank">Which Clients are Deserving of Help? A Theoretical Model and Experimental Test</a> (together with <a href="https://larstummers.com" target="_blank">Lars Tummers</a>). 
+
 I am founding editor (together with Ken Meier and Gregg Van Ryzin) of the <a href="http://www.journal-bpa.org" target="_blank">Journal of Behavioral Public Administration</a>, a not-for-profit, open-access journal, and co-chair the EGPA Permanent Study Group XXII on <a href="http://www.iias-iisa.org/egpa/groups/permanent-study-groups/psg-xxii-xxii-behavioral-public-administration" target="_blank">Behavioral Public Administration</a>.
