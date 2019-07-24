@@ -14,7 +14,9 @@ James, O., **Jilke, S.** & G. Van Ryzin. (eds.) (2017): *Experiments In Public M
 
 <h2>Articles</h2>
 <h3>Forthcoming</h3>
-**Jilke, S.** & M. Baekgaard. (forthcoming): The Political Psychology of Citizen Satisfaction: Does Functional Responsibility Matter? *Journal of Public Administration Research and Theory*, in press.
+**Jilke, S.** & M. Baekgaard. (forthcoming): The Political Psychology of Citizen Satisfaction: Does Functional Responsibility Matter? *Journal of Public Administration Research and Theory*, online first.  [pre-print] <a href="https://academic.oup.com/jpart/advance-article-abstract/doi/10.1093/jopart/muz012/5527836" target="_blank"><u>[article]</u></a> 
+
+**Jilke, S.**, Resh, W., Sidiki, S. & A. Olsen. (forthcoming). Microbrook, Mesobrook, Macrobrook. *Perspectives on Public Management and Governance*, in press.  [pre-print] [article]
 
 **Jilke, S.**, Lu, J., Xu, C. & S. Shinohara. (forthcoming): Using Large Scale Social Media Experiments in Public Administration: Assessing Charitable Consequences of Government Funding of Nonprofits. *Journal of Public Administration Research and Theory*, online first.   <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3164576" target="_blank"><u>[pre-print]</u></a>  <a href="https://academic.oup.com/jpart/advance-article-abstract/doi/10.1093/jopart/muy021/4995543" target="_blank"><u>[article]</u></a> 
 
