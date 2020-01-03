@@ -1,6 +1,5 @@
 # Hey there!
-Welcome to my [personal website](http://www.sebastianjilke.net)!  I am an Assistant Professor at the [School of Public Affairs and Administration](https://spaa.newark.rutgers.edu) at Rutgers University-Newark.
-
+Welcome to my [personal website](http://www.sebastianjilke.net)!  I am an Assistant Professor at the [School of Public Affairs and Administration](https://spaa.newark.rutgers.edu) at Rutgers University-Newark, and a Fellow in the [Office of Evaluation Sciences](https://oes.gsa.gov) at the General Services Administration in Washington, D.C.
 
 
 # Website Template
