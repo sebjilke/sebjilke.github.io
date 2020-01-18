@@ -14,7 +14,7 @@ James, O., **Jilke, S.** & G. Van Ryzin. (eds.) (2017): *Experiments In Public M
 
 <h2>Articles</h2>
 
-<h3>Forthcoming</h3>
+[//]: # (Forthcoming)
 **Jilke, S.**, Resh, W., Sidiki, S. & A. Olsen. (forthcoming). Microbrook, Mesobrook, Macrobrook. *Perspectives on Public Management and Governance*, online first.  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3442606" target="_blank"><u>[pre-print] </u></a>  <a href="https://academic.oup.com/ppmg/article/2/4/245/5576115" target="_blank"><u>[article]</u></a> 
 
 
