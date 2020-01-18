@@ -14,16 +14,14 @@ James, O., **Jilke, S.** & G. Van Ryzin. (eds.) (2017): *Experiments In Public M
 
 <h2>Articles</h2>
 
-[//]: # (Forthcoming)
-**Jilke, S.**, Resh, W., Sidiki, S. & A. Olsen. (forthcoming). Microbrook, Mesobrook, Macrobrook. *Perspectives on Public Management and Governance*, online first.  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3442606" target="_blank"><u>[pre-print] </u></a>  <a href="https://academic.oup.com/ppmg/article/2/4/245/5576115" target="_blank"><u>[article]</u></a> 
-
-
-<h3>2020</h3>
+[//]: # (2020)
 **Jilke, S.** & M. Baekgaard. (2020): The Political Psychology of Citizen Satisfaction: Does Functional Responsibility Matter? *Journal of Public Administration Research and Theory*, 30(1): 130-143.  <a href="" target="_blank"><u>[pre-print] </u></a>  <a href="https://academic.oup.com/jpart/advance-article-abstract/doi/10.1093/jopart/muz012/5527836" target="_blank"><u>[article]</u></a> 
 
 
 <h3>2019</h3>
 **Jilke, S.**, Lu, J., Xu, C. & S. Shinohara. (2019): Using Large Scale Social Media Experiments in Public Administration: Assessing Charitable Consequences of Government Funding of Nonprofits. *Journal of Public Administration Research and Theory*, 29(4): 627-639.   <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3164576" target="_blank"><u>[pre-print]</u></a>  <a href="https://academic.oup.com/jpart/advance-article-abstract/doi/10.1093/jopart/muy021/4995543" target="_blank"><u>[article]</u></a> 
+
+**Jilke, S.**, Resh, W., Sidiki, S. & A. Olsen. (2019). Microbrook, Mesobrook, Macrobrook. *Perspectives on Public Management and Governance*, 2(4): 245-253.  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3442606" target="_blank"><u>[pre-print] </u></a>  <a href="https://academic.oup.com/ppmg/article/2/4/245/5576115" target="_blank"><u>[article]</u></a> 
 
 
 <h3>2018</h3>
