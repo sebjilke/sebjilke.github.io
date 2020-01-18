@@ -8,21 +8,20 @@ author_profile: true
 An overview of my publications can also be found on <a href="https://scholar.google.com/citations?user=PA7TqeEAAAAJ&hl=en&oi=ao" target="_blank"><u>Google Scholar</u></a>.
      
 
-<h2>Book</h2>
+## Book
 James, O., **Jilke, S.** & G. Van Ryzin. (eds.) (2017): *Experiments In Public Management Research: Challenges and Contributions*. Cambridge: Cambridge University Press.  <a href="https://www.cambridge.org/core/books/experiments-in-public-management-research/8DB826A84D228568AAEC69732C72F1EC" target="_blank"><u>[book]</u></a>
      
 
-<h2>Articles</h2>
+## Articles
+[//]: # (Forthcoming)
 
 [//]: # (2020)
-**Jilke, S.** & M. Baekgaard. (2020): The Political Psychology of Citizen Satisfaction: Does Functional Responsibility Matter? *Journal of Public Administration Research and Theory*, 30(1): 130-143.  <a href="" target="_blank"><u>[pre-print] </u></a>  <a href="https://academic.oup.com/jpart/advance-article-abstract/doi/10.1093/jopart/muz012/5527836" target="_blank"><u>[article]</u></a> 
-
+**Jilke, S.** & M. Baekgaard. (2020): The Political Psychology of Citizen Satisfaction: Does Functional Responsibility Matter? *Journal of Public Administration Research and Theory*, 30(1): 130-143.  <a href="" target="_blank"><u>[pre-print]</u></a>  <a href="https://academic.oup.com/jpart/advance-article-abstract/doi/10.1093/jopart/muz012/5527836" target="_blank"><u>[article]</u></a> 
 
 [//]: # (2019)
 **Jilke, S.**, Lu, J., Xu, C. & S. Shinohara. (2019): Using Large Scale Social Media Experiments in Public Administration: Assessing Charitable Consequences of Government Funding of Nonprofits. *Journal of Public Administration Research and Theory*, 29(4): 627-639.   <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3164576" target="_blank"><u>[pre-print]</u></a>  <a href="https://academic.oup.com/jpart/advance-article-abstract/doi/10.1093/jopart/muy021/4995543" target="_blank"><u>[article]</u></a> 
 
-**Jilke, S.**, Resh, W., Sidiki, S. & A. Olsen. (2019). Microbrook, Mesobrook, Macrobrook. *Perspectives on Public Management and Governance*, 2(4): 245-253.  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3442606" target="_blank"><u>[pre-print] </u></a>  <a href="https://academic.oup.com/ppmg/article/2/4/245/5576115" target="_blank"><u>[article]</u></a> 
-
+**Jilke, S.**, Resh, W., Sidiki, S. & A. Olsen. (2019). Microbrook, Mesobrook, Macrobrook. *Perspectives on Public Management and Governance*, 2(4): 245-253.  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3442606" target="_blank"><u>[pre-print]</u></a>  <a href="https://academic.oup.com/ppmg/article/2/4/245/5576115" target="_blank"><u>[article]</u></a> 
 
 [//]: # (2018)
 **Jilke, S.** (2018): Citizen Satisfaction under Changing Political Leadership: The Role of Partisan Motivated Reasoning. *Governance*, 31(3): 515-533.  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3024855" target="_blank"><u>[pre-print]</u></a>  <a href="http://onlinelibrary.wiley.com/doi/10.1111/gove.12317/full" target="_blank"><u>[article]</u></a>
@@ -33,7 +32,6 @@ James, O., **Jilke, S.** & G. Van Ryzin. (eds.) (2017): *Experiments In Public M
 
 Voorberg, W., **Jilke, S.**, Tummers, L. & V. Bekkers. (2018): Financial Rewards Do Not Stimulate Co-Production: Evidence from Two Experiments. *Public Administration Review*, 78(6): 864-873.  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3076096" target="_blank"><u>[pre-print]</u></a>  <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/puar.12896" target="_blank"><u>[article]</u></a>
 
-
 [//]: # (2017)
 **Jilke, S.**, Petrovsky, N., Meuleman, B. & O. James (2017): Measurement Equivalence in Replications of Experimental Findings: Guidance on How and When to Determine Equivalence. *Public Management Review*, 19(9): 1293-1310.  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2798610" target="_blank"><u>[pre-print]</u></a>  <a href="https://www.tandfonline.com/doi/abs/10.1080/14719037.2016.1210906" target="_blank"><u>[article]</u></a>  <a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/DJHPPE" target="_blank"><u>[replication data & code]</u></a>
 
@@ -42,7 +40,6 @@ James, O., **Jilke, S.** & G. Van Ryzin (2017): Behavioural and Experimental Pub
 Grimmelikhuijsen, S., **Jilke, S.**, Olsen A. & L. Tummers (2017): Behavioral Public Administration: Combining Insights from Public Administration and Psychology. *Public Administration Review*, 77(1): 45-56.  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2773702" target="_blank"><u>[pre-print]</u></a>  <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/puar.12609" target="_blank"><u>[article]</u></a>
 
 Fernandez-Guiterrez, M., James, O. & **S. Jilke** (2017): Competition and Switching in Public Service Markets: Can They Reduce Inequalities? *Regulation & Governance*, 11(1): 41-63.  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2675114" target="_blank"><u>[pre-print]</u></a>  <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/rego.12110" target="_blank"><u>[article]</u></a>
-     
 
 [//]: # (2016)
 **Jilke, S.**, Van Ryzin, G. & S. Van de Walle (2016): Responses to Decline in Marketized Public Services: An Experimental Evaluation of Choice-Overload, *Journal of Public Administration Research and Theory*, 26(3): 421-432.  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2630752" target="_blank"><u>[pre-print]</u></a>  <a href="https://academic.oup.com/jpart/article/26/3/421/2579792" target="_blank"><u>[article]</u></a>
@@ -56,7 +53,6 @@ Tummers, L., Olsen, A., **Jilke, S.** & S. Grimmelikhuijsen (2016): Introduction
 James, O., **Jilke, S.**, Petersen, S. & S. Van de Walle (2016): Citizens’ Blame of Politicians for Public Service Failure: Experimental Evidence about Blame Reduction through Delegation and Contracting, *Public Administration Review*, 76(1): 83-93.  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2692597" target="_blank"><u>[pre-print]</u></a>  <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/puar.12471" target="_blank"><u>[article]</u></a>
 
 Andrews, R. & **S. Jilke** (2016): Welfare States and Social Cohesion in Europe: Does Social Service Quality Matter? *Journal of Social Policy*, 45(1): 119-140.  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2656590" target="_blank"><u>[pre-print]</u></a>  <a href="https://www.cambridge.org/core/journals/journal-of-social-policy/article/welfare-states-and-social-cohesion-in-europe-does-social-service-quality-matter/6E940D6269714287E9306B2C0E67FD01" target="_blank"><u>[article]</u></a>
-     
 
 [//]: # (2015)
 **Jilke, S.** (2015): Choice and equality: Are vulnerable citizens worse-off after liberalization reforms?, *Public Administration* 93(1): 68-85.  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2398902" target="_blank"><u>[pre-print]</u></a>  <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/padm.12102" target="_blank"><u>[article]</u></a>
@@ -64,13 +60,11 @@ Andrews, R. & **S. Jilke** (2016): Welfare States and Social Cohesion in Europe:
 **Jilke, S.**, Meuleman, B. & S. Van de Walle (2015): We need to compare, but how? Measurement equivalence in comparative public administration, *Public Administration Review* 75(1): 36-48.  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2509963" target="_blank"><u>[pre-print]</u></a>  <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/puar.12318" target="_blank"><u>[article]</u></a>
 
 Van de Walle, S., Steijn, B. & **S. Jilke** (2015): Extrinsic motivation, PSM and labour market characteristics: A multilevel model of public sector employment preference in 26 countries, *International Review of Administrative Sciences* 81(4): 833-855.  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2439593" target="_blank"><u>[pre-print]</u></a>  <a href="http://journals.sagepub.com/doi/abs/10.1177/0020852314563899" target="_blank"><u>[article]</u></a>
-     
 
 [//]: # (2014)
 Andrews, R., **Jilke, S.** & S. Van de Walle (2014): Economic strain and social cohesion in Europe: Does institutional trust matter?, *European Journal of Political Research* 53(3): 559-579.  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2380312" target="_blank"><u>[pre-print]</u></a>  <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/1475-6765.12052" target="_blank"><u>[article]</u></a>
 
 Van de Walle, S. & **S. Jilke** (2014): Savings in public services after the financial crisis: A multilevel analysis of drivers of public preferences in the EU27, *International Review of Administrative Sciences* 80(3): 597-618.  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2289438" target="_blank"><u>[pre-print]</u></a>  <a href="http://journals.sagepub.com/doi/abs/10.1177/0020852313517994" target="_blank"><u>[article]</u></a>
-     
 
 [//]: # (2013)
 **Jilke, S.** (2013): What shapes citizens’ perceptions of their public officials’ accountability? Evidence from local Ethiopia, *Public Administration and Development* 33(5): 389-403.  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2289433" target="_blank"><u>[pre-print]</u></a>  <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/pad.1659" target="_blank"><u>[article]</u></a>
