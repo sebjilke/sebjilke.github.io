@@ -15,6 +15,8 @@ James, O., **Jilke, S.** & G. Van Ryzin. (eds.) (2017): *Experiments In Public M
 ## Articles
 [//]: # (Forthcoming)
 
+James, O. & **S. Jilke**. (forthcoming): Marketisation Reforms and Coproduction: Does Ownership of Service Delivery Structures and Customer Language Matter? *Public Administration*, in press.
+
 [//]: # (2020)
 **Jilke, S.** & M. Baekgaard. (2020): The Political Psychology of Citizen Satisfaction: Does Functional Responsibility Matter? *Journal of Public Administration Research and Theory*, 30(1): 130-143.  <a href="" target="_blank"><u>[pre-print]</u></a>  <a href="https://academic.oup.com/jpart/advance-article-abstract/doi/10.1093/jopart/muz012/5527836" target="_blank"><u>[article]</u></a> 
 
