@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Ei gude wie?!"
+title: "Hi"
 excerpt: "Hey!"
 author_profile: true
 redirect_from: 
