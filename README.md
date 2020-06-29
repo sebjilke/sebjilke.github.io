@@ -1,5 +1,5 @@
 # Hey there!
-Welcome to my [personal website](http://www.sebastianjilke.net)!  I am an assocciate professor at [Georgetown University](https://www.georgetown.edu) ([McCourt School of Public Policy](https://mccourt.georgetown.edu)), and a Fellow in the [Office of Evaluation Sciences](https://oes.gsa.gov) at the General Services Administration in Washington, DC.
+Welcome to my [personal website](http://www.sebastianjilke.net)!  I am an associate professor at [Georgetown University](https://www.georgetown.edu) ([McCourt School of Public Policy](https://mccourt.georgetown.edu)), and a Fellow in the [Office of Evaluation Sciences](https://oes.gsa.gov) at the General Services Administration in Washington, DC.
 
 
 # Website Template
