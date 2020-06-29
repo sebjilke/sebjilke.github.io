@@ -15,7 +15,7 @@ James, O., **Jilke, S.** & G. Van Ryzin. (eds.) (2017): *Experiments In Public M
 ## Articles
 [//]: # (Forthcoming)
 
-Lee, I., **Jilke, S.** & O. James. (forthcoming): Are More Options Always a Good Thing? An Experimental Study of School Choice, Performance and Satisfaction. *Public Administration Review*, in press
+Lee, I., **Jilke, S.** & O. James. (forthcoming): Do More Options Always Benefit the Users of Public Services? An Experimental Study of School Choice, Performance and Satisfaction. *Public Administration Review*, in press.
 
 James, O. & **S. Jilke**. (forthcoming): Marketisation Reforms and Coproduction: Does Ownership of Service Delivery Structures and Customer Language Matter? *Public Administration*, in press.
 
