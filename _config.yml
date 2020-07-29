@@ -3,7 +3,7 @@
 locale                   : "en-US"
 title                    : "Welcome to my Website!"
 title_separator          : "-"
-name                     : &name "Sebastian Jilke"
+name                     : &name "Sebastian Jilke: Personal Website"
 description              : &description "Personal Website"
 url                      : https://sebjilke.github.io # DON'T CHANGE
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
