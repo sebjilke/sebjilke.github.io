@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an associate professor at Georgetown University's <a href="https://mccourt.georgetown.edu" target="_blank">McCourt School of Public Policy</a>, and a fellow with the <a href="https://oes.gsa.gov" target="_blank">Office of Evaluation Sciences</a> at the General Services Administration.
+I am an associate professor at Georgetown University's <a href="https://mccourt.georgetown.edu" target="_blank">McCourt School of Public Policy</a>, and an academic affiliate with the <a href="https://oes.gsa.gov" target="_blank">Office of Evaluation Sciences</a> at the General Services Administration.
 
 In my research, I study how government reforms affect public employees and the people they serve, particularly with regard to social equity in access to public services and programs. I also work with public organizations to design and apply behavioral interventions to improve government effectiveness.
 
