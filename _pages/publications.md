@@ -14,7 +14,7 @@ James, O., **Jilke, S.** & G. Van Ryzin. (eds.) (2017): *Experiments In Public M
 
 ## Articles
 [//]: # (Forthcoming)
-tba
+Shon, J. & **S. Jilke**. (forthcoming): The diverse effects of private competitors on public service performance: evidence from New Jersey's school system. *International Public Management Journal*, in press. <a href="" target="_blank"><u>[pre-print]</u></a>  <a href="https://www.tandfonline.com/doi/full/10.1080/10967494.2021.1887016" target="_blank"><u>[article]</u></a> 
 
 Lee, I., **Jilke, S.** & O. James. (forthcoming): Do More Options Always Benefit the Users of Public Services? An Experimental Study of School Choice, Performance and Satisfaction. *Public Administration Review*, in press. <a href="" target="_blank"><u>[pre-print]</u></a>  <a href="https://onlinelibrary.wiley.com/doi/10.1111/puar.13271" target="_blank"><u>[article]</u></a> 
 
