@@ -15,3 +15,5 @@ In my research, I study how government reforms affect public employees and the p
 I received the <a href="http://pmranet.org/awards/" target="_blank">Beryl Radin Award</a> for the best article published in the *Journal of Public Administration Research and Theory (JPART)*. I am also co-editor of <a href="https://www.cambridge.org/core/books/experiments-in-public-management-research/8DB826A84D228568AAEC69732C72F1EC" target="_blank">*Experiments In Public Management Research: Challenges and Contributions*</a> (Cambridge University Press). In 2017, I co-founded the <a href="http://www.journal-bpa.org" target="_blank">Journal of Behavioral Public Administration</a>, a not-for-profit, open-access journal. I served as JBPA's editor-in-chief until 2021.
 
 Born in Germany, I received my master's in public administration from Zeppelin University (Germany), and PhD from Erasmus University Rotterdam (the Netherlands). Prior to joining Georgetown, I was an assistant professor in the <a href="https://spaa.newark.rutgers.edu" target="_blank">School of Public Affairs and Administration</a> at Rutgers. 
+
+My Erdős Number is 6.
