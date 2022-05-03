@@ -13,18 +13,21 @@ James, O., **Jilke, S.** & G. Van Ryzin. (eds.) (2017): *Experiments In Public M
      
 
 ## Articles
+
 [//]: # (Forthcoming)
+Keppeler, F., Sievert, M. **S. Jilke**. (forthcoming): Increasing COVID-19 Vaccination Intentions: A Field Experiment on Psychological Ownership. *Behavioural Public Policy*, in press.
+
 Shon, J. & **S. Jilke**. (forthcoming): The diverse effects of private competitors on public service performance: evidence from New Jersey's school system. *International Public Management Journal*, in press. <a href="" target="_blank"><u>[pre-print]</u></a>  <a href="https://www.tandfonline.com/doi/full/10.1080/10967494.2021.1887016" target="_blank"><u>[article]</u></a> 
 
-Lee, I., **Jilke, S.** & O. James. (forthcoming): Do More Options Always Benefit the Users of Public Services? An Experimental Study of School Choice, Performance and Satisfaction. *Public Administration Review*, in press. <a href="" target="_blank"><u>[pre-print]</u></a>  <a href="https://onlinelibrary.wiley.com/doi/10.1111/puar.13271" target="_blank"><u>[article]</u></a> 
-
 [//]: # (2021)
+Lee, I., **Jilke, S.** & O. James. (2021): Do More Options Always Benefit the Users of Public Services? An Experimental Study of School Choice, Performance and Satisfaction. *Public Administration Review*, 81(1): 110-210. <a href="" target="_blank"><u>[pre-print]</u></a>  <a href="https://onlinelibrary.wiley.com/doi/10.1111/puar.13271" target="_blank"><u>[article]</u></a> 
+
 Favero, N., **Jilke, S.**, Wolfson, J. & M. Young. (2021): Messenger Effects in COVID-19 Communication: Does the Level of Government Matter? *Health Policy OPEN*, 2(December): 100027. <a href="" target="_blank"><u>[pre-print]</u></a>  <a href="https://www.sciencedirect.com/science/article/pii/S2590229620300253" target="_blank"><u>[article]</u></a> 
 
 [//]: # (2020)
-James, O. & **S. Jilke**. (2020): Marketisation Reforms and Coproduction: Does Ownership of Service Delivery Structures and Customer Language Matter? *Public Administration*, 84(4): 941-957. <a href="" target="_blank"><u>[pre-print]</u></a>  <a href="https://onlinelibrary.wiley.com/doi/10.1111/padm.12670" target="_blank"><u>[article]</u></a> 
-
 **Jilke, S.** & M. Baekgaard. (2020): The Political Psychology of Citizen Satisfaction: Does Functional Responsibility Matter? *Journal of Public Administration Research and Theory*, 30(1): 130-143.  <a href="" target="_blank"><u>[pre-print]</u></a>  <a href="https://academic.oup.com/jpart/advance-article-abstract/doi/10.1093/jopart/muz012/5527836" target="_blank"><u>[article]</u></a> 
+
+James, O. & **S. Jilke**. (2020): Marketisation Reforms and Coproduction: Does Ownership of Service Delivery Structures and Customer Language Matter? *Public Administration*, 84(4): 941-957. <a href="" target="_blank"><u>[pre-print]</u></a>  <a href="https://onlinelibrary.wiley.com/doi/10.1111/padm.12670" target="_blank"><u>[article]</u></a> 
 
 [//]: # (2019)
 **Jilke, S.**, Lu, J., Xu, C. & S. Shinohara. (2019): Using Large Scale Social Media Experiments in Public Administration: Assessing Charitable Consequences of Government Funding of Nonprofits. *Journal of Public Administration Research and Theory*, 29(4): 627-639.   <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3164576" target="_blank"><u>[pre-print]</u></a>  <a href="https://academic.oup.com/jpart/advance-article-abstract/doi/10.1093/jopart/muy021/4995543" target="_blank"><u>[article]</u></a> 
