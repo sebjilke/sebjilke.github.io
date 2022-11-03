@@ -15,9 +15,9 @@ James, O., **Jilke, S.** & G. Van Ryzin. (eds.) (2017): *Experiments In Public M
 ## Articles
 
 [//]: # (Forthcoming)
-Döring, M & **S> Jilke**. (forthcoming): Cream-Skimming at the frontline: The role of administrative literacy. *Public Administration*, in press.
+Döring, M & **S. Jilke**. (forthcoming): Cream-Skimming at the frontline: The role of administrative literacy. *Public Administration*, in press.
 
-Kang, I. & **S> Jilke**. (forthcoming): Mapping out the motivational basis of active representation as intergroup behavior. *Public Administration*, in press.
+Kang, I. & **S. Jilke**. (forthcoming): Mapping out the motivational basis of active representation as intergroup behavior. *Public Administration*, in press.
 
 Keppeler, F., Sievert, M. & **S. Jilke**. (forthcoming): Increasing COVID-19 Vaccination Intentions: A Field Experiment on Psychological Ownership. *Behavioural Public Policy*, in press.
 
