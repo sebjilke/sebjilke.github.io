@@ -24,7 +24,7 @@ Keppeler, F., Sievert, M. & **S. Jilke**. (forthcoming): Increasing COVID-19 Vac
 Van Dooren, W. & **S. Jilke**. (forthcoming): No evidence for ethnic discrimination in the nonprofit sector: An audit study of access to nursing homes. *International Public Management Journal*, in press. <a href="" target="_blank"><u>[pre-print]</u></a>  <a href="https://www.tandfonline.com/doi/full/10.1080/10967494.2022.2051650" target="_blank"><u>[article]</u></a> 
 
 [//]: # (2022)
-Shon, J. & **S. Jilke**. (forthcoming): The diverse effects of private competitors on public service performance: evidence from New Jersey's school system. *International Public Management Journal*, 25(5): 722-740. <a href="" target="_blank"><u>[pre-print]</u></a>  <a href="https://www.tandfonline.com/doi/full/10.1080/10967494.2021.1887016" target="_blank"><u>[article]</u></a> 
+Shon, J. & **S. Jilke**. (2022): The diverse effects of private competitors on public service performance: evidence from New Jersey's school system. *International Public Management Journal*, 25(5): 722-740. <a href="" target="_blank"><u>[pre-print]</u></a>  <a href="https://www.tandfonline.com/doi/full/10.1080/10967494.2021.1887016" target="_blank"><u>[article]</u></a> 
 
 [//]: # (2021)
 Lee, I., **Jilke, S.** & O. James. (2021): Do More Options Always Benefit the Users of Public Services? An Experimental Study of School Choice, Performance and Satisfaction. *Public Administration Review*, 81(1): 110-210. <a href="" target="_blank"><u>[pre-print]</u></a>  <a href="https://onlinelibrary.wiley.com/doi/10.1111/puar.13271" target="_blank"><u>[article]</u></a> 
