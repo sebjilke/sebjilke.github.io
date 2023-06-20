@@ -15,6 +15,9 @@ James, O., **Jilke, S.** & G. Van Ryzin. (eds.) (2017): *Experiments In Public M
 ## Articles
 
 [//]: # (Forthcoming)
+
+Andersen, S., Bruntse, M., S., James, O. & **S. Jilke**. (forthcoming): Does Work Quality Differ between the Public and Private Sectors? Evidence from Two Online Field Experiments. *Journal of Public Administration Research and Theory*, in press.
+
 Döring, M & **S. Jilke**. (forthcoming): Cream-Skimming at the frontline: The role of administrative literacy. *Public Administration*, in press.
 
 Kang, I. & **S. Jilke**. (forthcoming): Mapping out the motivational basis of active representation as intergroup behavior. *Public Administration*, in press.
