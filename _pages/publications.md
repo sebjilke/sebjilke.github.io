@@ -16,13 +16,15 @@ James, O., **Jilke, S.** & G. Van Ryzin. (eds.) (2017): *Experiments In Public M
 
 [//]: # (Forthcoming)
 
-Andersen, S., Bruntse, M., S., James, O. & **S. Jilke**. (forthcoming): Does Work Quality Differ between the Public and Private Sectors? Evidence from Two Online Field Experiments. *Journal of Public Administration Research and Theory*, in press.
+Lee, I. & **Jilke, S.** (forthcoming): Sector Attraction and the Role of Job Information: Evidence form a Conjoint Experiment. *Public Administration Review*, in press. <a href="" target="_blank"><u>[pre-print]</u></a>  <a href="https://onlinelibrary.wiley.com/doi/10.1111/puar.13760" target="_blank"><u>[article]</u></a> 
 
-Döring, M & **S. Jilke**. (forthcoming): Cream-Skimming at the frontline: The role of administrative literacy. *Public Administration*, in press.
+Andersen, S., Bruntse, M., S., James, O. & **S. Jilke**. (forthcoming): Does Work Quality Differ between the Public and Private Sectors? Evidence from Two Online Field Experiments. *Journal of Public Administration Research and Theory*, in press. <a href="" target="_blank"><u>[pre-print]</u></a>  <a href="https://academic.oup.com/jpart/advance-article/doi/10.1093/jopart/muad011/7199673" target="_blank"><u>[article]</u></a> 
 
-Kang, I. & **S. Jilke**. (forthcoming): Mapping out the motivational basis of active representation as intergroup behavior. *Public Administration*, in press.
+Döring, M & **S. Jilke**. (forthcoming): Cream-Skimming at the frontline: The role of administrative literacy. *Public Administration*, in press. <a href="" target="_blank"><u>[pre-print]</u></a>  <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/padm.12900" target="_blank"><u>[article]</u></a> 
 
-Keppeler, F., Sievert, M. & **S. Jilke**. (forthcoming): Increasing COVID-19 Vaccination Intentions: A Field Experiment on Psychological Ownership. *Behavioural Public Policy*, in press.
+Kang, I. & **S. Jilke**. (forthcoming): Mapping out the motivational basis of active representation as intergroup behavior. *Public Administration*, in press. <a href="" target="_blank"><u>[pre-print]</u></a>  <a href="https://onlinelibrary.wiley.com/doi/10.1111/padm.12908" target="_blank"><u>[article]</u></a> 
+
+Keppeler, F., Sievert, M. & **S. Jilke**. (forthcoming): Increasing COVID-19 Vaccination Intentions: A Field Experiment on Psychological Ownership. *Behavioural Public Policy*, in press. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3905470" target="_blank"><u>[pre-print]</u></a>  <a href="https://www.cambridge.org/core/journals/behavioural-public-policy/article/increasing-covid19-vaccination-intentions-a-field-experiment-on-psychological-ownership/9E49F3DCDEA9C237CAE93DE9B4A7E3EC" target="_blank"><u>[article]</u></a> 
 
 Van Dooren, W. & **S. Jilke**. (forthcoming): No evidence for ethnic discrimination in the nonprofit sector: An audit study of access to nursing homes. *International Public Management Journal*, in press. <a href="" target="_blank"><u>[pre-print]</u></a>  <a href="https://www.tandfonline.com/doi/full/10.1080/10967494.2022.2051650" target="_blank"><u>[article]</u></a> 
 
