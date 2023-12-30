@@ -10,8 +10,6 @@ An overview of my publications can also be found on <a href="https://scholar.goo
 
 ## Working Papers
 
-Racial Discrimination and Administrative Burden in Access to Public Services (with Elizabeth Bell).  <a href="https://assets.researchsquare.com/files/rs-3206910/v1/4ab4b1e5-c528-4700-b56f-2d766f3e27a0.pdf?c=1695140836" target="_blank"><u>[link]</u></a>
-
 Policy makers believe money motivates more than it does (with Florian Keppeler, John Ternovski, Dominik Vogel & Erez Yoeli).  <a href="https://osf.io/jq28n/" target="_blank"><u>[link]</u></a>
 
 Scaling Behavioral Interventions in the Presence of Spillover: Implications for Evidence-Based Policy Making (with John Ternovski, Florian Keppeler & Dominik Vogel).  <a href="https://osf.io/k5uap/" target="_blank"><u>[link]</u></a>
@@ -25,6 +23,9 @@ James, O., **Jilke, S.** & G. Van Ryzin. (eds.) (2017): *Experiments In Public M
 ## Articles
 
 [//]: # (Forthcoming)
+
+Bell, E. & **S. Jilke** (forthcoming).  Racial Discrimination and Administrative Burden in Access to Public Services. *Nature Scientific Reports*, in press.  <a href="https://assets.researchsquare.com/files/rs-3206910/v1/4ab4b1e5-c528-4700-b56f-2d766f3e27a0.pdf?c=1695140836" target="_blank"><u>[pre-print]</u></a>
+
 
 **Jilke, S.**. Baekgaard, M., Herd, P. & D. Moynihan. (forthcoming): Short and Sweet: Measuring Experiences of Administrative Burden. *Journal of Behavioral Public Administration*, in press. <a href="" target="_blank"><u>[pre-print]</u></a>  <a href="" target="_blank"><u>[article]</u></a> 
 
