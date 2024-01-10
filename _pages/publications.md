@@ -10,7 +10,7 @@ An overview of my publications can also be found on <a href="https://scholar.goo
 
 ## Working Papers
 
-Scaling Behavioral Interventions in the Presence of Spillover: Implications for Evidence-Based Policy Making (with John Ternovski, Florian Keppeler & Dominik Vogel).  <a href="https://osf.io/k5uap/" target="_blank"><u>[link]</u></a>
+Scaling Behavioral Interventions in the Presence of Spillover (with John Ternovski, Florian Keppeler & Dominik Vogel).  <a href="https://osf.io/k5uap/" target="_blank"><u>[link]</u></a>
 
 
 
