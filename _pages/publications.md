@@ -22,7 +22,7 @@ James, O., **Jilke, S.** & G. Van Ryzin. (eds.) (2017): *Experiments In Public M
 
 [//]: # (Forthcoming)
 
-O'Flaherty, S., Martin, L., Bhanot, S., Hall, C., **Jilke, S.**, Simko, T. & M. Steffel (forthcoming); Lessons learned from applying behavioral science in the U.S. federal government: Advice for effective collaborations between behavioral scientists and policymakers. *Behavioral Science & Policy*, in press.
+O'Flaherty, S., Martin, L., Bhanot, S., Hall, C., **Jilke, S.**, Simko, T. & M. Steffel. (forthcoming): Lessons learned from applying behavioral science in the U.S. federal government: Advice for effective collaborations between behavioral scientists and policymakers. *Behavioral Science & Policy*, in press.
 
 **Jilke, S.**, Keppeler, F., Ternovski, J., Vogel, D. & E. Yoeli. (forthcoming). Policy makers believe money motivates more than it does. *Nature Scientific Reports*, in press.   <a href="https://osf.io/jq28n/" target="_blank"><u>[pre-print]</u></a>
 
